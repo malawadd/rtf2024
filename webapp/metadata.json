@@ -1,0 +1,76 @@
+{
+  "name": "aeon SURVIAL",
+  "description": "a test NFT for the survival game for Code AREA",
+  "attributes": [
+    {
+      "trait_type": "Faction",
+      "value": "Prima"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Prima Tuft"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Prima Seer"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Prima Aether"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Prima Warp"
+    },
+    {
+      "trait_type": "Pet",
+      "value": "Phi"
+    },
+    {
+      "trait_type": "Body Swatch",
+      "value": "#e4626a,#da557a"
+    },
+    {
+      "trait_type": "Headwear Swatch",
+      "value": "#ab40f6,#ab40f6"
+    },
+    {
+      "trait_type": "Eyes Swatch",
+      "value": "#f83737,#907f74"
+    },
+    {
+      "trait_type": "Chest Swatch",
+      "value": "#ffcfb5,#aaaaff"
+    },
+    {
+      "trait_type": "Legs Swatch",
+      "value": "#907f74,#339fff"
+    },
+    {
+      "trait_type": "Pet Swatch",
+      "value": "#f2f0ed,#8080ff"
+    },
+    {
+      "trait_type": "Gene",
+      "value": "0x1010110110001010101010010100011000111100110000010110100110010010"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafkreiakstbnyfudzf2geksinjdvkfadttpjfhgqtilehcq2p36tw4ez3a.ipfs.nftstorage.link",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://bafkreicbvqc7pav7wwwm5eg2l5fh5pfzkacpgcn256agvkcxwvosxcplha.ipfs.nftstorage.link",
+        "type": "image/png"
+      },
+      {
+        "uri": "https://bafkreibnurjo6q2jhgrr7hyyxpsft3jtfr2ihy7r2ea7cmbecp7rkhwytq.ipfs.nftstorage.link",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "image": "https://bafkreiakstbnyfudzf2geksinjdvkfadttpjfhgqtilehcq2p36tw4ez3a.ipfs.nftstorage.link"
+}
